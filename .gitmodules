@@ -1,0 +1,3 @@
+[submodule "metodosNumericos"]
+	path = metodosNumericos
+	url = https://github.com/MarcoMendoza7/metodosNumericos
